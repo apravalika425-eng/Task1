@@ -1,0 +1,12 @@
+customer_id,name,age,gender,country,join_date,annual_income,email
+C001,Anita Rao,28,Female,India,15-01-2024,45000,anita@example.com
+C002,Rahul Kumar,34,Male,India,15-02-2024,52000,rahul@example.com
+C003,Meena Shah,32,Female,India,10-03-2024,61000,meena@example.com
+C004,John Peter,41,Male,United States,20-04-2024,72000,john@example.com
+C005,Sara Ali,32,Female,United States,25-05-2024,68000,sara@example.com
+C006,Vikram Das,29,Male,India,,59000,vikram@example.com
+C007,Priya Nair,32,Female,India,18-07-2024,59000,priya@example.com
+C008,David Lee,36,Other,United States,02-08-2024,83000,not_provided
+C009,Fatima Noor,31,Female,Pakistan,12-09-2024,56000,fatima@example.com
+C010,Kiran Reddy,27,Female,India,05-10-2024,49000,kiran@example.com
+C011,Alex Morgan,32,Non-binary,United States,11-11-2024,59000,alex@example.com
